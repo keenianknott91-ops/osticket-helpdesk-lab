@@ -1,5 +1,3 @@
-# osticket-helpdesk-lab
-IT Help Desk ticketing system lab using osTicket and Docker
 # osTicket Help Desk Lab
 
 ## Overview
